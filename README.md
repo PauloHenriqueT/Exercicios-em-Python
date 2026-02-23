@@ -1,2 +1,2 @@
 # Exercícios em Python
-Alguns exercícios feitos em Python durante estudos
+Alguns exercícios feitos do curso de Python do Gustavo Guanabara
