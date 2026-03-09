@@ -4,4 +4,4 @@ triplo = n * 3
 raiz = n ** (1/2)
 print('O dobro desse {} é {}'.format(n, dobro))
 print('O triplo de {} é {}'.format(n, triplo))
-print('A raiz de {} é {}'.format(n, raiz))
+print('A raiz de {} é {}'.format(n, raiz)).
