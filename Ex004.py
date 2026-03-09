@@ -5,4 +5,4 @@ print('É numerico', n.isnumeric())
 print('É alfanumericos', n.isalnum())
 print('Tem letras maiusculas', n.isupper())
 print('Tem letras minusculas', n.islower())
-print('Tem capitalizado', n.istitle()).
+print('Tem capitalizado', n.istitle())
